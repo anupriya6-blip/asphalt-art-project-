@@ -16,19 +16,19 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+< ![alt text](<Screenshot 2025-09-18 11.43.35 PM.png>) / ![alt text](<Screenshot 2025-09-18 11.41.53 PM.png>)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project was that i drew a heart inside of a frame and a background
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - The two thing sthat im proud of that i was able to complete my prjetc on time, and the way that my drawing turned out to be
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - If there is something different i would do for future would be being mor eorganized with my heart painter class, i noticed that i wasnt that orgnized with it. Sorry 
 # asphalt-art-project-
